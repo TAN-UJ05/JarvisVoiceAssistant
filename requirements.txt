@@ -1,0 +1,15 @@
+# Required libraries
+speech_recognition
+pyttsx3
+datetime
+webbrowser
+requests
+wikipedia
+pywhatkit
+pyjokes
+os
+pyautogui
+imscreen_brightness_control
+ctypes
+comtypes 
+pycaw
