@@ -103,8 +103,8 @@ README.md          -> This file
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourGitHubUsername/jarvis-voice-assistant.git
-   cd jarvis-voice-assistant
+   git clone https://github.com/TAN-UJ2005/JarvisVoiceAssistant
+   cd JarvisVoiceAssistant
    ```
 
 2. **Install dependencies:**
