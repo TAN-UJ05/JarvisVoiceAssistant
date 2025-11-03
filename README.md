@@ -103,7 +103,7 @@ README.md          -> This file
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/TAN-UJ2005/JarvisVoiceAssistant
+   git clone https://github.com/TAN-UJ2005/JarvisVoiceAssistant.git
    cd JarvisVoiceAssistant
    ```
 
